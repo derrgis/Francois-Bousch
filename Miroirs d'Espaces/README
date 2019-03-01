@@ -1,0 +1,7 @@
+That's patches working with Cycling 74 Max7 software.
+They've been coded for the audiovisual piece by composer François Bousch
+The patche named FB.SAMPLER.TEXTOGRAPHE.maxpat does 3 things:
+- count time in order to keep control of visual sync to the music, because the musical piece is a big one : 40 minutes
+- read video files then you can launch each (simple play/stop) . note that video's are not included, if need please send me an email.
+- load an text file full of string and convert them to sound
+For an idea about the piece  have a look at the excerpt https://youtu.be/FRnf4wUXgWU
